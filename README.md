@@ -5,7 +5,7 @@ this repo contains the code made during a stream on my [twitch chnnel](https://t
 # build
 
 you can either run the python file directly or build the program to be an executable using the command:  
-`cd build  
+`cd build<br>
 python3 build.py`
 
 # gameplay
